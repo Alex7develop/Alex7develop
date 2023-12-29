@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **TanStack Query, Next JS, Node JS, Vue, Solidity**
 - 👯 I’m looking to collaborate on **Mobile and Backnd Dev Projects**
 - 📫 How to reach me: **alexkirilchuk98@gmail.com**
-- Game JavaScript: **https://alex7develop.github.io/java-script-game**
+- Game JavaScript:
+-  **https://alex7develop.github.io/game-ninja-vanila-java-script**
+-  **https://alex7develop.github.io/java-script-game**
+
 
 ## About Me
 My name is Alexander I am a Frontend developer with a degree in aerospace university in engineering and computer graphics and 3 years of experience as a Frontend developer.
