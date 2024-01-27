@@ -13,6 +13,7 @@
 My name is Alexander I am a Frontend developer with a degree in aerospace university in engineering and computer graphics and 3 years of experience as a Frontend developer.
 My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
 A fan of good coffee and jazz music! Running half marathons, reading books and interested in new technologies, open to learning new skills.
+**https://portfolio-my-developer.netlify.app/coinmarketcap**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexander.kirilchuk.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexkirilchuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-kirilchuk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SashaKirilchuk) 
