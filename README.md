@@ -1,31 +1,79 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Alexander Kirilchuk 👋</h1>
+<h3 align="center">Frontend Engineer · AI Product Interfaces & Workflow Automation</h3>
 
-- 🔭 I am currently working on a **Web application in React, Redux, TypeScript**
-- 🌱 I’m currently learning **TanStack Query, Next JS, Node JS, Vue, Solidity**
-- 👯 I’m looking to collaborate on **Mobile and Backnd Dev Projects**
-- 📫 How to reach me: **alexkirilchuk98@gmail.com**
-- Game JavaScript:
--  **https://alex7develop.github.io/game-ninja-vanila-java-script**
--  **https://alex7develop.github.io/java-script-game**
+<p align="center">
+  Building with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b> — focused on scalable UI architecture and AI-driven product interfaces.
+</p>
 
+<p align="center">
+  📍 Moscow, Russia (open to remote)&nbsp;&nbsp;·&nbsp;&nbsp;
+  📧 <a href="mailto:alexkirilchuk98@gmail.com">alexkirilchuk98@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/aleksandr-kirilchuk/">LinkedIn</a>
+</p>
 
-## About Me
-My name is Alexander I am a Frontend developer with a degree in aerospace university in engineering and computer graphics and 3 years of experience as a Frontend developer.
-My main stack: **JavaScript, TypeScript, React, Redux, Redux-toolkit.**
-A fan of good coffee and jazz music! Running half marathons, reading books and interested in new technologies, open to learning new skills.
-**https://portfolio-my-developer.netlify.app/coinmarketcap**
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexander.kirilchuk.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexkirilchuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-kirilchuk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SashaKirilchuk) 
+### About
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+I'm a Frontend Engineer with 3+ years of experience building production web applications, currently focused on AI-powered product interfaces and workflow automation. My background combines an engineering degree in aerospace/computer graphics with hands-on frontend development — I care about clean architecture, performance, and interfaces that make complex systems feel simple.
 
-# 📊 GitHub Stats:
+- 🔭 Currently building **AI-assisted workflow tools** with React, Next.js and TypeScript
+- 🌱 Deepening my expertise in **TanStack Query, Node.js, and system design for frontend architecture**
+- 🤝 Open to collaborating on **AI product tooling, automation platforms, and B2B SaaS**
+- 📫 Reach me at **alexkirilchuk98@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/aleksandr-kirilchuk/)
+
+---
+
+### Featured Projects
+
+**[AlephTrade Agreements Portal](https://github.com/Alex7develop/alephtrade-agreements-portal)**
+Web platform for managing trade agreements — built with React, TypeScript, and a component-driven architecture for scalability.
+`React` `TypeScript` `Next.js`
+
+**[Lawyer CRM](https://github.com/Alex7develop/lawyer_crm)**
+CRM system for legal case and client management, with role-based workflows and a focus on usability for non-technical users.
+`React` `TypeScript` `Redux Toolkit`
+
+**[Fitness Tracking App](https://github.com/Alex7develop/usmanova_fit)**
+Client-facing fitness tracking application with a clean, mobile-first UI.
+`React` `TypeScript` `CSS`
+
+> *Replace the descriptions above with 1–2 sentences on what each project actually does, who it's for, and what problem it solves — that's what recruiters and engineers actually read.*
+
+---
+
+### Tech Stack
+
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-593d88?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & Tooling**
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-404d59?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Design & Collaboration**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex7develop&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Alex7develop&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/aleksandr-kirilchuk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/Sashakiril"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
+</p>
