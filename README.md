@@ -88,7 +88,3 @@ Phone-number authentication widget (Yandex ID–style flow) — country selectio
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex7develop&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aleksandr-kirilchuk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/Sashakiril"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
-</p>
