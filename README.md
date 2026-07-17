@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  📍 Moscow, Russia (open to remote)&nbsp;&nbsp;·&nbsp;&nbsp;
-  📧 <a href="mailto:alexkirilchuk98@gmail.com">alexkirilchuk98@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/aleksandr-kirilchuk/">LinkedIn</a>
+  Moscow, Russia (open to remote)&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:alexkirilchuk98@gmail.com">alexkirilchuk98@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aleksandr-kirilchuk/">LinkedIn</a>
 </p>
 
 ---
