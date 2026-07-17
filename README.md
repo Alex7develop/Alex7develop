@@ -15,9 +15,10 @@
 
 ### About
 
-I'm a Frontend Engineer with 3+ years of experience building production web applications, currently focused on AI-powered product interfaces and workflow automation. My background combines an engineering degree in aerospace/computer graphics with hands-on frontend development — I care about clean architecture, performance, and interfaces that make complex systems feel simple.
+I'm a Frontend Engineer with 5+ years of experience building production web applications, currently focused on AI-powered product interfaces and workflow automation. My background combines an engineering degree in aerospace/computer graphics with hands-on frontend development — I care about clean architecture, performance, and interfaces that make complex systems feel simple.
 
 - 🔭 Currently building **AI-assisted workflow tools** with React, Next.js and TypeScript
+- 🤖 Designing and deploying **AI agents** into production — from prototype to live product features
 - 🌱 Deepening my expertise in **TanStack Query, Node.js, and system design for frontend architecture**
 - 🤝 Open to collaborating on **AI product tooling, automation platforms, and B2B SaaS**
 - 📫 Reach me at **alexkirilchuk98@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/aleksandr-kirilchuk/)
@@ -26,19 +27,23 @@ I'm a Frontend Engineer with 3+ years of experience building production web appl
 
 ### Featured Projects
 
-**[AlephTrade Agreements Portal](https://github.com/Alex7develop/alephtrade-agreements-portal)**
-Web platform for managing trade agreements — built with React, TypeScript, and a component-driven architecture for scalability.
-`React` `TypeScript` `Next.js`
+**AlephTrade B2B Portal** *(private — internal company project)*
+Customer-facing B2B web platform for AlephTrade — catalog, cart, orders, payments, and equipment service requests. Built with React 18, TypeScript, Vite and Tailwind CSS, sharing core logic with the company's mobile clients (iOS/Android).
+`React` `TypeScript` `Vite` `Tailwind`
 
-**[Lawyer CRM](https://github.com/Alex7develop/lawyer_crm)**
-CRM system for legal case and client management, with role-based workflows and a focus on usability for non-technical users.
-`React` `TypeScript` `Redux Toolkit`
+![AlephTrade B2B Portal](https://github.com/user-attachments/assets/7f3e23f3-a9c8-44cb-80cf-49e3a6abac6d)
 
-**[Fitness Tracking App](https://github.com/Alex7develop/usmanova_fit)**
-Client-facing fitness tracking application with a clean, mobile-first UI.
-`React` `TypeScript` `CSS`
+**AlephTrade AI Assistant** *(private — internal company project)*
+AI chat assistant for AlephTrade with real-time streaming responses, multi-conversation history, image attachments, and voice input. Integrates with a custom LLM API and OAuth-based authentication.
+`React 19` `TypeScript` `Vite` `LLM Integration`
 
-> *Replace the descriptions above with 1–2 sentences on what each project actually does, who it's for, and what problem it solves — that's what recruiters and engineers actually read.*
+![AlephTrade AI Assistant](https://github.com/user-attachments/assets/595467d7-69f9-40c6-b6d9-f6aba13745d8)
+
+**SSO / AUID Auth Widget** *(private — internal company project)*
+Phone-number authentication widget (Yandex ID–style flow) — country selection, SMS/call code verification, and unique user ID (AUID) issuance for company-wide SSO.
+`React` `TypeScript`
+
+![SSO Auth Widget](https://github.com/user-attachments/assets/db9bea1d-caf0-48c0-804d-47f879f23575)
 
 ---
 
@@ -66,6 +71,22 @@ Client-facing fitness tracking application with a clean, mobile-first UI.
 
 **Design & Collaboration**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**AI / ML & LLM Engineering**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM-412991?style=flat-square)
+![LoRA](https://img.shields.io/badge/-LoRA%20%2F%20QLoRA-FF6F00?style=flat-square)
+![Chroma](https://img.shields.io/badge/-Chroma-FFA500?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
