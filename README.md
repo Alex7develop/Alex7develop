@@ -84,7 +84,3 @@ Phone-number authentication widget (Yandex ID–style flow) — country selectio
 
 ---
 
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex7develop&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
