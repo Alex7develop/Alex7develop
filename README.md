@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexander Kirilchuk 👋</h1>
+<h1 align="center">Hi, I'm Alexander Kirilchuk</h1>
 <h3 align="center">Frontend Engineer · AI Product Interfaces & Workflow Automation</h3>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 I'm a Frontend Engineer with 5+ years of experience building production web applications, currently focused on AI-powered product interfaces and workflow automation. My background combines an engineering degree in aerospace/computer graphics with hands-on frontend development — I care about clean architecture, performance, and interfaces that make complex systems feel simple.
 
-- 🔭 Currently building **AI-assisted workflow tools** with React, Next.js and TypeScript
-- 🤖 Designing and deploying **AI agents** into production — from prototype to live product features
-- 🌱 Deepening my expertise in **TanStack Query, Node.js, and system design for frontend architecture**
-- 🤝 Open to collaborating on **AI product tooling, automation platforms, and B2B SaaS**
-- 📫 Reach me at **alexkirilchuk98@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/aleksandr-kirilchuk/)
+- Currently building **AI-assisted workflow tools** with React, Next.js and TypeScript
+- Designing and deploying **AI agents** into production — from prototype to live product features
+- Deepening my expertise in **TanStack Query, Node.js, and system design for frontend architecture**
+- Open to collaborating on **AI product tooling, automation platforms, and B2B SaaS**
+- Reach me at **alexkirilchuk98@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/aleksandr-kirilchuk/)
 
 ---
 
@@ -31,19 +31,13 @@ I'm a Frontend Engineer with 5+ years of experience building production web appl
 Customer-facing B2B web platform for AlephTrade — catalog, cart, orders, payments, and equipment service requests. Built with React 18, TypeScript, Vite and Tailwind CSS, sharing core logic with the company's mobile clients (iOS/Android).
 `React` `TypeScript` `Vite` `Tailwind`
 
-![AlephTrade B2B Portal](https://github.com/user-attachments/assets/7f3e23f3-a9c8-44cb-80cf-49e3a6abac6d)
-
 **AlephTrade AI Assistant** *(private — internal company project)*
 AI chat assistant for AlephTrade with real-time streaming responses, multi-conversation history, image attachments, and voice input. Integrates with a custom LLM API and OAuth-based authentication.
 `React 19` `TypeScript` `Vite` `LLM Integration`
 
-![AlephTrade AI Assistant](https://github.com/user-attachments/assets/595467d7-69f9-40c6-b6d9-f6aba13745d8)
-
 **SSO / AUID Auth Widget** *(private — internal company project)*
 Phone-number authentication widget (Yandex ID–style flow) — country selection, SMS/call code verification, and unique user ID (AUID) issuance for company-wide SSO.
 `React` `TypeScript`
-
-![SSO Auth Widget](https://github.com/user-attachments/assets/db9bea1d-caf0-48c0-804d-47f879f23575)
 
 ---
 
