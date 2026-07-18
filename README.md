@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Alexander Kirilchuk</h1>
 <h3 align="center">Frontend Engineer · AI Product Interfaces & Workflow Automation</h3>
-
 <p align="center">
   Building with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b> — focused on scalable UI architecture and AI-driven product interfaces.
 </p>
-
 <p align="center">
   Moscow, Russia (open to remote)&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:alexkirilchuk98@gmail.com">alexkirilchuk98@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
