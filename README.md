@@ -81,4 +81,4 @@ Phone-number authentication widget (Yandex ID–style flow) — country selectio
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
-
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex7develop&theme=github-compact&hide_border=true&area=true)](https://github.com/Alex7develop)
